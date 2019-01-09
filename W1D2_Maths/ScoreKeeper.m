@@ -8,7 +8,7 @@
 
 #import "ScoreKeeper.h"
 #import "InputHandler.h"
-#import "AddingQuestion.h"
+#import "Question.h"
 
 @implementation ScoreKeeper
 -(instancetype)initWithCounts{
